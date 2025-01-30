@@ -1,0 +1,14 @@
+.btn{
+    font-family: Helvetica, Times New 'Times New Roman', sans-serif;
+    font-size: 24px;
+    border-color: gray;
+}
+
+.adjust-all-colors{
+    color:white;
+    background-color: black;
+}
+
+.adjust-button-color-only{
+    background-color: yellow;
+}
