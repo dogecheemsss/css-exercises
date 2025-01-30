@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
